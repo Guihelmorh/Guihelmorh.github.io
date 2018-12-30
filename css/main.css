@@ -8,6 +8,7 @@
 }
 @viewport
 {
+     zoom: 0.75;
     width: device-width;
 }
 a,
